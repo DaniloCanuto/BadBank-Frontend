@@ -1,4 +1,4 @@
-import BTCard from "react-bootstrap/card";
+import BTCard from "react-bootstrap/Card";
 
 function Card({ header, title, body, image, minHeight, width = "16rem" }) {
   return (
